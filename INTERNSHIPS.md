@@ -1,5 +1,9 @@
 # 2026 Summer Australia Tech Internships
 
-| Company | Role / Position | Location | Application Link | Start Date | Requirements | International Students | Notes |
-|---------|----------------|----------|-----------------|---------|----------------|---------------------|-----------------------|-------|
-| Susquehanna | Software Development Internship | Sydney, NSW | [Apply Here](https://careers.sig.com/job/9615/Software-Development-Internship-November-2026) | November 2026 | Distinction WAM | Yes | Penultimate Students Only |
+# 2026 Summer Australia Tech Internships
+
+<!-- TABLE_START -->
+| Company | Role / Position | Location | Application | Start Date | International Students | Notes |
+|---------|----------------|---------|------------|-----------|-----------------------|-------|
+| <a href="https://www.susquehanna.com"><strong>Susquehanna</strong></a> | Software Development Intern | Sydney, NSW | <a href="https://example.com"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | November 2026 | Yes | Penultimate Students Only |
+<!-- TABLE_END -->
