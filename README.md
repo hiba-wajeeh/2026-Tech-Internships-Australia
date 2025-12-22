@@ -1,4 +1,4 @@
-# 2026 Tech Internships in Australia
+# 2026 Summer Tech Internships in Australia
 
 This repository tracks **tech internship opportunities in Australia** and aims to make it easier for students — including international students — to find relevant roles.  
 
@@ -12,9 +12,8 @@ This repository tracks **tech internship opportunities in Australia** and aims t
   - Role
   - Location
   - Application link
-  - Applicate starting Date
-  - Deadline (if known)
-  - Internship Duration/Start Date (if known)
+  - Applicate Start Date
+  - Internship Start Date (if known)
   - International student eligibility
 - Community-driven: anyone can contribute via **Pull Requests (PRs)**
 
@@ -26,17 +25,6 @@ This repository tracks **tech internship opportunities in Australia** and aims t
 - `CONTRIBUTING.md` — Guidelines for submitting internships  
 - `INTERNSHIPS.md` - List of all internships currently opened
 - `NEWGRADS.md` - List of all new grad positions
-
----
-
-## 📝 How to use
-
-1. **Browse listings**  
-   - Open the files in `internships/` to see all current opportunities
-   - Use search (Ctrl+F / Cmd+F) for company, location, or role
-
-2. **Filter for international students**  
-   - Look for the `International students` field in each listing: `Yes / No / Unclear`
 
 ---
 

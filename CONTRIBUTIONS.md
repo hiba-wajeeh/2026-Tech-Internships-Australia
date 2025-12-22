@@ -20,9 +20,8 @@ When adding or updating an internship, include:
 - **Role**
 - **Location**
 - **Application link**
-- **Deadline** (if known)
 - **Application Opening Date**
-- **Internship Duration**
+- **Internship Start Date**
 - **International students**: whether the role accepts or is suitable for international students  
   - Use one of: **Yes / No / Unclear**
   - If unclear, include a source or note if possible
