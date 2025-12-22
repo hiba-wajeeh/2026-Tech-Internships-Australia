@@ -1,7 +1,5 @@
 # 2026 Summer Australia Tech Internships
 
-# 2026 Summer Australia Tech Internships
-
 <!-- TABLE_START -->
 | Company | Role / Position | Location | Application | Start Date | International Students | Notes 
 |---------|----------------|---------|------------|-----------|-----------------------|-------|
