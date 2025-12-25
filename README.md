@@ -30,7 +30,7 @@ This repository tracks **tech internship opportunities in Australia** and aims t
 
 1. Fork the repo  
 2. Create a new branch  
-3. Add or update internship info in the `internships/` folder  
+3. Add or update internship info in `INTERNSHIPS.md` 
 4. Open a **Pull Request**  
 5. Wait for review and approval (maintainers will merge it)  
 
