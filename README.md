@@ -1,4 +1,4 @@
-# 2026 Summer Tech Internships in Australia
+# 2026 Undergraduate Tech Internships in Australia
 
 This repository tracks **tech internship opportunities in Australia** and aims to make it easier for students — including international students — to find relevant roles.  
 
@@ -12,7 +12,6 @@ This repository tracks **tech internship opportunities in Australia** and aims t
   - Role
   - Location
   - Application link
-  - Applicate Start Date
   - Internship Start Date (if known)
   - International student eligibility
 - Community-driven: anyone can contribute via **Pull Requests (PRs)**
@@ -52,5 +51,3 @@ This repository tracks **tech internship opportunities in Australia** and aims t
 This repo is designed to **help students quickly find internships** and **enable community contributions**.  
 
 Contributions are welcome, especially if you find new roles or updates for existing listings!
-
-

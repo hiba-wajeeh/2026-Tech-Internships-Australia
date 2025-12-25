@@ -10,7 +10,7 @@ This repository tracks internship opportunities in Australia and aims to keep li
 Please ensure the internship meets the following criteria:
 
 - **Australia-based**
-- Relevant to **students or new grads**
+- Relevant to **undergraduate students or new grads**
 - Not a duplicate of an existing listing
 
 ### Required Information
@@ -20,7 +20,6 @@ When adding or updating an internship, include:
 - **Role**
 - **Location**
 - **Application link**
-- **Application Opening Date**
 - **Internship Start Date**
 - **International students**: whether the role accepts or is suitable for international students  
   - Use one of: **Yes / No / Unclear**
