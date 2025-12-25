@@ -32,7 +32,7 @@ This repository tracks **tech internship opportunities in Australia** and aims t
 2. Create a new branch  
 3. Add or update internship info in `INTERNSHIPS.md` 
 4. Open a **Pull Request**  
-5. Wait for review and approval (maintainers will merge it)  
+5. Wait for review and approval   
 
 **See [CONTRIBUTING.md](CONTRIBUTING.md) for full guidelines.**
 
