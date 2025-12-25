@@ -24,7 +24,6 @@ This repository tracks **tech internship opportunities in Australia** and aims t
 - `README.md` — This file  
 - `CONTRIBUTING.md` — Guidelines for submitting internships  
 - `INTERNSHIPS.md` - List of all internships currently opened
-- `NEWGRADS.md` - List of all new grad positions
 
 ---
 
