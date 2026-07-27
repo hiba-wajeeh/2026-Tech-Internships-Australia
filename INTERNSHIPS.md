@@ -2,8 +2,7 @@
 
 <!-- TABLE_START -->
 | Company | Role / Position | Location | Application | Start Date | International Students | Notes 
-|---------|----------------|---------|------------|-----------|-----------------------|-------|
-| <a href="https://stripe.com/au/jobs" target="_blank"><strong>Stripe</strong></a>  | SWE Intern | Sydney, NSW | <a href="https://stripe.com/jobs/listing/software-engineer-intern/7532256?gh_src=73vnei" target="_blank"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | Unclear | Yes | Unclear |    
+|---------|----------------|---------|------------|-----------|-----------------------|-------|  
 | <a href="https://www.thetradedesk.com/" target="_blank"><strong>The Trade Desk</strong></a> | Software Engineering Intern | Sydney | <a href="https://job-boards.greenhouse.io/thetradedesk/jobs/5033765007?gh_src=1c01b2067us" target="_blank"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 30 Nov 2026 | Unclear (Need evidence of full working rights) | Penultimate Student |  
 | <a href="https://www.citadelsecurities.com/" target="_blank"><strong>Citadel Securities</strong></a> | Software Engineer Internship | Sydney | <a href="https://www.citadelsecurities.com/careers/details/software-engineer-intern-australia/" target="_blank"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | Unclear | Unclear | Current Student |
 | <a href="https://kpmg.com/au/en.html" target="_blank"><strong>KPMG</strong></a> | Vactioner Program | Multiple locations in Australia | <a href="https://jobs.smartrecruiters.com/ni/KPMGAustralia1/a7c3bc9c-9004-4a1c-8559-37ba1b49de0f-2026-27-kpmg-vacationer-intern-program" target="_blank"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | Nov 2026 | Yes | Penultimate Student |
